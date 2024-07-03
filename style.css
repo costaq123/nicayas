@@ -1,5 +1,3 @@
-:root {
-    --branco-prinipal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #16
+body{
+    background-color: #FFFFFF;
 }
