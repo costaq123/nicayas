@@ -4,22 +4,20 @@
     display: flex;
     justify-content: space-around;
 }
-.cabeçario-triangulo {
-    
-}
 
-.texto-1{
-    display:inline-block;
+.cabeçario-triangulo {}
+
+.texto-1 {
+    display: inline-block;
     margin: 0px 20p
-
 }
 
 .texto-2 {
-    display:inline-block
-}margin: 0px 20p
-
-.texto-3{
-    display:inline-block;
-    margin: 0px 28p
+    display: inline-block;
+    margin: 0px 20p
 }
 
+.texto-3 {
+    display: inline-block;
+    margin: 0px 28p
+}
