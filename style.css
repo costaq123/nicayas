@@ -8,16 +8,11 @@
 .cabeçario-triangulo {}
 
 .texto-1 {
-    display:inline-flex;
-    margin: 0px 20p
-}
-
-.texto-2 {
-    display:inline-flex;
+    display:inline-block;
     margin: 0px 20p
 }
 
 .texto-3 {
-    display:inline-flex;
+    display:inline-block;
     margin: 0px 28p
 }
