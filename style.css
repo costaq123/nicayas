@@ -8,15 +8,13 @@
 
 
 
-.texto-1{
+.texto-1 {
     display: inline-block;
     margin: 0px 20px;
 }
 
 
-.imagem-perfil{
+.imagem-perfil {
     display: inline-block;
-    margin: -14px;
+    margin: -14px 36px;
 }
-
-
