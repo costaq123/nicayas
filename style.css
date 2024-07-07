@@ -15,8 +15,8 @@
 
 
 .imagem-perfil{
-    display: inline-block
-
+    display: inline-block;
+    margin: -14px;
 }
 
 
