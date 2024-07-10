@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 5px;
+    padding: 4px;
 
 }
 
@@ -28,5 +28,9 @@
 }
 
 .parte-azul {
-    margin: 25px 4%;
+    margin: 4px 6px;
+}
+
+img.parte-azul {
+    width: 99%;
 }
