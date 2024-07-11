@@ -63,3 +63,13 @@ img.parte-azul {
     justify-content: space-around;
     font-size: 20px;
 }
+
+.ajudar {
+    background-color: #EBECEE;
+    color: #294887;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+
