@@ -65,7 +65,8 @@ img.parte-azul {
     flex-direction: column;
 }
 
-.texto-final{
+.texto-final {
     background-color: #294887;
     color: #ffffff;
     font-size: 20px;
+}
