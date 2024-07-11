@@ -64,3 +64,8 @@ img.parte-azul {
     justify-content: space-around;
     flex-direction: column;
 }
+
+.texto-final{
+    background-color: #294887;
+    color: #ffffff;
+    font-size: 20px;
