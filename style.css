@@ -36,6 +36,7 @@ img.parte-azul {
     ;
 }
 
-.texto-2{
+.texto-2 {
 
+    display: flex;
 }
