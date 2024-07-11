@@ -56,13 +56,6 @@ img.parte-azul {
     font-size: 27px;
 }
 
-.ajudar {
-    background-color: #EBECEE;
-    color: #294887;
-    display: flex;
-    justify-content: space-around;
-    font-size: 20px;
-}
 
 .ajudar {
     background-color: #EBECEE;
@@ -70,6 +63,5 @@ img.parte-azul {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
+    font-size: 20px;
 }
-
-
