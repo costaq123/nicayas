@@ -40,4 +40,8 @@ img.parte-azul {
     background-color: #ffffff;
     color: 000000;
     display: flex;
+    justify-content: space-around;
+    margin: 5px 0px;
+    font-size: 20px;
+}
 }
