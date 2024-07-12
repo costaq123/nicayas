@@ -74,4 +74,8 @@ img.parte-azul {
     justify-content: center;
     align-content: space-around;
     flex-wrap: wrap
+} 
+
+.texto-final-5{
+    margin: 53px;
 }
