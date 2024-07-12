@@ -78,4 +78,9 @@ img.parte-azul {
 
 .texto-final-5{
     margin: 53px;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
 }
