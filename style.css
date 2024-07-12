@@ -69,4 +69,9 @@ img.parte-azul {
     background-color: #294887;
     color: #ffffff;
     font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: space-around;
+    flex-wrap: wrap
 }
