@@ -85,4 +85,7 @@ img.parte-azul {
     align-items: center;
 }
 
-.
+.cabeçario-lista
+{
+    display: none;
+}
