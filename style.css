@@ -84,3 +84,9 @@ img.parte-azul {
     justify-content: space-evenly;
     align-items: center;
 }
+
+.o-que-é{
+    display: none;
+    position: relative;
+
+}
