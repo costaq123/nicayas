@@ -87,5 +87,5 @@ img.parte-azul {
 
 .cabeçario-lista
 {
-    display: none;
+    position: absolute;
 }
