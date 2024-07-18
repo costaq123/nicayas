@@ -14,7 +14,7 @@
     font-size: 20px;
 }
 
-.cabeçario-lista{
+.cabeçario-lista {
     color: #000000;
 }
 
@@ -77,9 +77,9 @@ img.parte-azul {
     justify-content: center;
     align-content: space-around;
     flex-wrap: wrap
-} 
+}
 
-.texto-final-5{
+.texto-final-5 {
     margin: 53px;
     display: flex;
     align-content: center;
@@ -88,6 +88,7 @@ img.parte-azul {
     align-items: center;
 }
 
-a{
+a {
     text-decoration: none;
+    color: #333
 }
