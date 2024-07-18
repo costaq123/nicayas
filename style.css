@@ -15,12 +15,9 @@
 }
 
 
-
-.texto-1 {
-    display: inline-block;
-    margin: 0px 20px;
+a {
+    text-decoration: none;
 }
-
 
 .imagem-perfil {
     display: inline-block;
