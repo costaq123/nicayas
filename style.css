@@ -3,8 +3,9 @@
     padding: 4px;
 }
 
-.cabeçario {
-    display:flex
+.cabecario {
+    display:flex;
+    justify-content:space-around
 }
 
 .cabeçario-triangulo {
