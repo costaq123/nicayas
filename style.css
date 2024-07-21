@@ -103,6 +103,15 @@ img.parte-azul {
     align-content: space-around;
     flex-wrap: wrap
 }
+.texto-final-6{
+    margin: 53px;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+}
 
 .texto-final-5 {
     margin: 53px;
