@@ -44,7 +44,17 @@ img.parte-azul {
     TEXT-ALIGN: center;
     color: #294887;
     font-size: 27px;
-    margin: 25px;
+    margin: 23px;
+}
+
+.texto-em-cima1{
+    margin: 27px;
+}
+.inicio11 {
+    background-color: #EBECEE;
+    TEXT-ALIGN: center;
+    color: #294887;
+    font-size: 27px;
 }
 
 
@@ -52,7 +62,7 @@ img.parte-azul {
     TEXT-ALIGN: center;
     color: #294887;
     font-size: 27px;
-    margin: 25px;
+    margin: 23px;
 }
 
 .texto-2 {
@@ -103,12 +113,3 @@ a {
     text-decoration: none;
 }
 
-.texto-em-cima1{
-    margin: 27px;
-}
-.inicio11 {
-    background-color: #EBECEE;
-    TEXT-ALIGN: center;
-    color: #294887;
-    font-size: 27px;
-}
