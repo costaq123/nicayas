@@ -43,9 +43,10 @@ img.parte-azul {
     margin: 20px;
 }
 
-.texto-em-cima1{
+.texto-em-cima1 {
     margin: 27px;
 }
+
 .inicio11 {
     background-color: #124366;
     TEXT-ALIGN: center;
@@ -70,8 +71,8 @@ img.parte-azul {
     font-size: 20px;
 }
 
-.texto-em-baixo1{
-    text-align:center ;
+.texto-em-baixo1 {
+    text-align: center;
     color: #294887;
     font-size: 27px;
     margin: 23px;
@@ -103,7 +104,8 @@ img.parte-azul {
     align-content: space-around;
     flex-wrap: wrap
 }
-.texto-final-6{
+
+.texto-final-6 {
     margin: 53px;
     display: flex;
     align-content: center;
@@ -111,7 +113,7 @@ img.parte-azul {
     justify-content: space-evenly;
     align-items: center;
 }
-}
+
 
 .texto-final-5 {
     margin: 53px;
@@ -125,4 +127,3 @@ img.parte-azul {
 a {
     text-decoration: none;
 }
-
