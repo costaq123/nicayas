@@ -39,8 +39,14 @@ a {
 img.parte-azul {
     width: 99%;
 }
+.texto-em-cima1 {
+    TEXT-ALIGN: center;
+    color: #294887;
+    font-size: 27px;
+}
 
-.texto-em-cima {
+
+.texto-em-cima2 {
     TEXT-ALIGN: center;
     color: #294887;
     font-size: 27px;
