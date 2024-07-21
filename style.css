@@ -51,9 +51,9 @@ img.parte-azul {
     margin: 27px;
 }
 .inicio11 {
-    background-color: #EBECEE;
+    background-color: #124366;
     TEXT-ALIGN: center;
-    color: #294887;
+    color: #ffffff;
     font-size: 27px;
 }
 
@@ -66,8 +66,8 @@ img.parte-azul {
 }
 
 .texto-2 {
-    background-color: #EBECEE;
-    color: #294887;
+    background-color: #124366;
+    color: #ffffff;
     display: flex;
     justify-content: space-around;
     margin: 5px 0px;
@@ -82,8 +82,8 @@ img.parte-azul {
 
 
 .ajudar {
-    background-color: #EBECEE;
-    color: #294887;
+    background-color: #124366;
+    color: #ffffff;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
