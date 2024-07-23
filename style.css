@@ -170,4 +170,5 @@ a {
     width: 100%;
     max-width: 4rem;
     font-size: 1.125rem;
+    align-items: center;
 }
