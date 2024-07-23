@@ -117,13 +117,9 @@ a {
 }
 
 .fale-conosco1 {
-    background-color: #124366;
+    background-color: #ffffff;
     text-align: center;
-    color: #ffffff;
+    color: #294887;
     font-size: 25px;
     display: block;
-}
- 
-a :visited{
-    color: #ffffff;
 }
