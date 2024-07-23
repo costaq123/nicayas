@@ -56,7 +56,7 @@ img.parte-azul {
 
 
 .texto-em-cima2 {
-    TEXT-ALIGN: center;
+    text-align: center;
     color: #294887;
     font-size: 27px;
     margin: 20px;
@@ -96,7 +96,7 @@ img.parte-azul {
 
 .texto-final {
     background-color: #124366;
-    TEXT-ALIGN: center;
+    text-align: center;
     color: #ffffff;
     font-size: 27px;
 }
@@ -118,4 +118,5 @@ a {
 
 .fale-conosco {
     background-color: #124366;
+    text-align: center;
 }
