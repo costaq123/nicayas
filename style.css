@@ -172,3 +172,16 @@ a {
     font-size: 1.125rem;
     align-items: center;
 }
+
+body {
+    background: linear-gradient(to right, #000046, #1CB5E0);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: "Quattrocento Sans";
+    padding-right: 1rem;
+    padding-left: 1rem;
+    position: relative;
+}
