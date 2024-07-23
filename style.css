@@ -157,7 +157,6 @@ a {
     margin-bottom: 0.5rem;
 }
 
-form input,
 .form textarea {
     font: inherit;
     padding: 0.8rem;
@@ -165,4 +164,10 @@ form input,
     border: 1px solid#124366;
     border-radius: 8px;
     transition: border-color, box-shadow 0.2s;
+}
+
+.form {
+    width: 100%;
+    max-width: 32rem;
+    font-size: 1.125rem;
 }
