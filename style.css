@@ -172,3 +172,91 @@ a {
     font-size: 1.125rem;
     align-items: center;
 }
+
+@media screen and (min-width:1024px) {
+    .texto-2 {
+        font-size: 17px;
+    }
+
+    .texto-2html {
+        font-size: 2rem;
+        margin-bottom: 5rem;
+    }
+}
+
+@media screen and (min-width:428px) {
+    .cabecario {
+        display: flex;
+        font-size: 14px;
+        flex-direction: column;
+    }
+
+    .cabeçario-triangulo {
+        width: 41%;
+    }
+
+    .texto-em-cima1 {
+        TEXT-ALIGN: center;
+        color: #294887;
+        font-size: 21px;
+        margin: 8px;
+    }
+
+    .inicio11 {
+        background-color: #124366;
+        TEXT-ALIGN: center;
+        color: #ffffff;
+        font-size: 16px;
+    }
+
+    .texto-em-cima2 {
+        text-align: center;
+        color: #294887;
+        font-size: 21px;
+        margin: 8px;
+    }
+
+
+    .texto-2 {
+        background-color: #124366;
+        color: #ffffff;
+        display: flex;
+        justify-content: space-around;
+        margin: 5px 2px;
+        font-size: 15px;
+        flex-direction: column;
+    }
+
+    .texto-final {
+        background-color: #124366;
+        text-align: center;
+        color: #ffffff;
+        font-size: 17px;
+    }
+
+    .texto-em-baixo1 {
+        text-align: center;
+        color: #294887;
+        font-size: 21px;
+        margin: 8px;
+    }
+
+    .texto-final-5 {
+        background-color: #124366;
+        color: #ffffff;
+        margin: 53px;
+        text-align: center;
+        font-size: 21px;
+        margin: 13px 0%;
+    }
+
+    .texto-2html {
+        font-size: 2rem;
+        color: #124366;
+        margin-bottom: 2rem;
+        text-align: center;
+        line-height: 1.2;
+        margin: 53px;
+    }
+
+}
