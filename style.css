@@ -96,15 +96,10 @@ img.parte-azul {
 
 .texto-final {
     background-color: #124366;
+    TEXT-ALIGN: center;
     color: #ffffff;
-    font-size: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    align-content: space-around;
-    flex-wrap: wrap
+    font-size: 27px;
 }
-
 
 
 .texto-final-5 {
