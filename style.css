@@ -173,14 +173,3 @@ a {
     align-items: center;
 }
 
-.novohtml {
-    background: linear-gradient(to right, #124366, #1CB5E0);
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    padding-right: 1rem;
-    padding-left: 1rem;
-    position: relative;
-}
