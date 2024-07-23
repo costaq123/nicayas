@@ -173,7 +173,7 @@ a {
     align-items: center;
 }
 
-element.fale-conosco1 {
+.fale-conosco1.css {
     background: linear-gradient(to right, #000046, #1CB5E0);
     min-height: 100vh;
     display: flex;
