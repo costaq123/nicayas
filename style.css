@@ -142,3 +142,10 @@ a {
     cursor: pointer;
     transition: 0.2s;
 }
+.texto-2html{
+    font-size: 3rem;
+    color: #fff;
+    margin-bottom: 2rem;
+    text-align: center;
+    line-height: 1.2;
+}
