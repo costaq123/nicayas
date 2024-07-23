@@ -151,3 +151,8 @@ a {
     line-height: 1.2;
 }
 
+.form label {
+    color: #fff;
+    line-height: 1;
+    margin-bottom: 0.5rem;
+}
