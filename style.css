@@ -124,8 +124,20 @@ a {
     display: block;
 }
 
-#btn-topo {
+#botão-em-cima {
     position: fixed;
     top: 20px;
     left: 20px;
+}
+.botão-que-volta-inicio {
+    display: block;
+    padding: 1rem;
+    background: #000046;
+    color: #fff;
+    font: inherit;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.2s;
 }
