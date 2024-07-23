@@ -116,9 +116,14 @@ a {
     text-decoration: none;
 }
 
-.fale-conosco1{
+.fale-conosco1 {
     background-color: #124366;
     text-align: center;
     color: #ffffff;
     font-size: 25px;
+    display: block;
+}
+ 
+a :visited{
+    color: #ffffff;
 }
