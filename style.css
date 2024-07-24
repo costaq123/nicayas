@@ -40,12 +40,9 @@ img.parte-azul {
     TEXT-ALIGN: center;
     color: #294887;
     font-size: 27px;
-    margin: 20px;
-}
-
-.texto-em-cima1 {
     margin: 17px;
 }
+
 
 .inicio11 {
     background-color: #124366;
@@ -187,6 +184,7 @@ a {
 @media screen and (min-width:428px) {
     .cabecario {
         display: flex;
+        justify-content: space-around;
         font-size: 14px;
         flex-direction: column;
     }
